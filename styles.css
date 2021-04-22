@@ -193,8 +193,8 @@ About
   margin-bottom: 2rem;
 }
 .about-img img {
-  border-radius: var(--radius);
-  object-fit: cover;
+  border-radius: 100%;
+  object-fit: contain;
   height: 20rem;
 }
 @media screen and (min-width: 992px) {
